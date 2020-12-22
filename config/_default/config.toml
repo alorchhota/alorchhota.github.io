@@ -20,6 +20,9 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+# Publish website in docs directory to host on github pages
+publishDir = "docs"
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 
