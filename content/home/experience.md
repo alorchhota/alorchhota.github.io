@@ -22,24 +22,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Research Assistant
+    company: Battle Lab, Johns Hopkins University
+    company_url: 'battlelab.jhu.edu/'
+    location: Baltimore, USA
+    date_start: '2014-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+      At the Battle Lab, I work to develop and use computational methods to understand, analyze and interpret gene regulation in humans. Here, my responsibilities include:
+        - Improving accuracy and interpretability of co-expression networks,
+        - Studying regulation of transcription and splicing using bulk and
+        single-cell RNA-seq,
+        - Establishing best practices for co-expression and trans-eQTL analysis,
+        - Uncovering genetic effects on gene expression across diverse human tissues as part of two big consortia (GTEx and eQTLGen) and other collaborations,
+        - Mentoring junior lab members.
         
-        * Analysing
-        * Modelling
-        * Deploying
+  - title: Qualifying Project Developer
+    company: Langmead Lab, Johns Hopkins University
+    company_url: 'http://www.langmead-lab.org/'
+    location: Baltimore, USA
+    date_start: '2019-06-18'
+    date_end: ''
+    description: With Dr. Ben Langmead, I studied the application of sketch data structures in computational genomics. We showed that the conservative count-min sketch consistently provides more accurate estimates than the regular count-min sketch. We also developed two sketch algorithms – offline count-min sketch and offline conservative count-min sketch – that visit the k-mers multiple times to improve estimates.
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Data Mining and Information Systems Lab, Korea University
+    company_url: 'https://dmis.korea.ac.kr/'
+    location: Seoul, South Korea
+    date_start: '2011-09-01'
+    date_end: '2014-07-30'
+    description: Worked on context-specific sub-network discovery to classify phenotypes using microarray gene expression profiles.
+  
+  - title: Software Engineer
+    company: Vizrt Bangladesh
+    company_url: 'www.vizrt.com'
+    location: Dhaka, Bangladesh
+    date_start: '2009-11-01'
+    date_end: '2011-08-30'
+    description: Vizrt creates leading-edge content production tools for the digital media industry. As a Scrum Master of the Media Asset Management (MAM) application team, I designed and developed <a href="https://www.vizrt.com/en/support/component-updates/Logger-7-2-0" target="_blank"> a media logger tool </a> to annotate scenes in a video. As a developer of the <a href="http://docs.escenic.com/widget-user-guide/3.0/what_is_a_widget_.html" target="_blank"> Escenic Widget Framework </a> team, I developed templates for displaying contents on a publication page.
+    
+  - title: Senior Software Engineer
+    company: Structured Data Systems Limited
+    company_url: 'https://www.linkedin.com/company/structured-data-systems-limited/about/'
+    location: Dhaka, Bangladesh
+    date_start: '2007-06-07'
+    date_end: '2009-10-30'
+    description: Structured Data Systems Limited is an offshore branch of <a href="www.afrigis.co.za" target="_blank">AfriGIS</a>, a geographic information based company in South Africa. I designed and developed the <a href="https://developers.afrigis.co.za/javascript-api/" target="_blank"> javascript API </a> framework for their map services.
 ---

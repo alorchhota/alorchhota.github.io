@@ -1,6 +1,13 @@
 # IDEs
 .idea/
 
+# R
+.Rhistory
+
 # Hugo
 /resources/
 public/
+.Rproj.user
+
+# mac 
+.DS_Store
