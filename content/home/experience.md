@@ -34,7 +34,7 @@ experience:
         - Studying regulation of transcription and splicing using bulk and
         single-cell RNA-seq,
         - Establishing best practices for co-expression and trans-eQTL analysis,
-        - Uncovering genetic effects on gene expression across diverse human tissues as part of two big consortia (GTEx and eQTLGen) and other collaborations,
+        - Uncovering genetic effects on gene expression across diverse human tissues as part of two big consortia (GTEx and eQTLGen) and other collaborations, and
         - Mentoring junior lab members.
         
   - title: Qualifying Project Developer
@@ -51,8 +51,11 @@ experience:
     location: Seoul, South Korea
     date_start: '2011-09-01'
     date_end: '2014-07-30'
-    description: Worked on context-specific sub-network discovery to classify phenotypes using microarray gene expression profiles.
-  
+    description: |2-
+      At DMIS lab, my responsibility was to
+        - Develop methods to find disease-causing pathways or co-expressed genes using microarray gene expression profiles, and
+        - Create tools to visualize and interpret gene interactions.
+
   - title: Software Engineer
     company: Vizrt Bangladesh
     company_url: 'www.vizrt.com'
