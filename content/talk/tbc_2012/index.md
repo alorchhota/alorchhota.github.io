@@ -4,7 +4,7 @@ title: Gene Interaction-Level Cancer Classification using Gene Expression Profil
 event: Translational Bioinformatics 2012
 event_url: http://www.snubi.org/TBC2012/
 
-location: Hyatt Regency Jeju
+location: Translational Bioinformatics 2012, Jeju, Korea
 address:
   city: Jeju Island
   country: Korea

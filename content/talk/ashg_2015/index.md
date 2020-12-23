@@ -4,7 +4,7 @@ title: Tissue-specific transcriptome-wide networks reflect joint regulation of a
 event: American Society of Human Genetics 2015 Annual Meeting
 event_url: https://www.ashg.org/meetings/
 
-location: Baltimore Convention Center
+location: ASHG 2015, Baltimore, USA
 address:
   street: 1 West Pratt Street
   city: Baltimore

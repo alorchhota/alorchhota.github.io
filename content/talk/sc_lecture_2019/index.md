@@ -4,7 +4,7 @@ title: Guest lecture on single-cell genomics
 event: Guest lecture
 event_url: ""
 
-location: Johns Hopkins University
+location: Johns Hopkins University, USA
 address:
   city: Baltimore
   country: USA

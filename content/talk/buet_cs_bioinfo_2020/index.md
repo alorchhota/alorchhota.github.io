@@ -4,7 +4,7 @@ title: False positives in trans-eQTL and co-expression analyses arising from RNA
 event: Buet-CS-Bioinformatics Seminar
 event_url: https://www.youtube.com/channel/UCvmcrTlnUncxNA78x49jQNQ
 
-location: Virtual
+location: Buet-CS-Bioinformatics Seminar (Virtual)
 # address:
 #   city: Jeju Island
 #   country: Korea
