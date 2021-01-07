@@ -9,7 +9,7 @@ summary: A step-by-step tutorial to build and deploy a personal website using R,
 projects: []
 
 # Date published
-date: "2020-12-23T08:00:00Z"
+date: "2025-12-23T08:00:00Z"
 
 # Date updated
 lastmod: "2020-12-23T08:00:00Z"

@@ -29,6 +29,12 @@
   weight = 50
 
 [[main]]
+  name = "Extracuricular"
+  url = "#extracuricular"
+  weight = 55
+
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
