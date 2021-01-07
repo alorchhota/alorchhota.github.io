@@ -29,7 +29,7 @@ I'm a hobbyist photographer. Birds and wild animals especially attract me. You a
 ### Travel
 <center><img src="media/travel.jpg" alt="States and National parks I visited"/></center>
 
-I love traveling. My target is to visit every state and every national park in USA. So far I visited 31 states and 12 national parks. The pins in the above map shows the states (blue pins) and national parks (red pins) I visited until September 2018.
+I love traveling. My target is to visit every state and every national park in USA. So far I visited 31 states and 12 national parks. The pins in the above map show the states (blue pins) and national parks (red pins) I visited until September 2018.
 
 ### Camping
 <center><img src="media/camping.jpg" alt="" /></center>
