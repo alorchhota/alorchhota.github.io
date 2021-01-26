@@ -1,9 +1,9 @@
 ---
 title: How I created my website
-subtitle: Steps to build an academic-theme website using R (No HTML, JavaScript, or CSS)
+subtitle: Steps to develop an academic-theme website using R (No HTML, JavaScript, or CSS)
 
 # Summary for listings and search engines
-summary: Steps to build an academic-theme website using R (No HTML, JavaScript, or CSS)
+summary: Steps to develop an academic-theme website using R (No HTML, JavaScript, or CSS)
 
 # Link this post with a project
 projects: []

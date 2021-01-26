@@ -29,8 +29,8 @@
   weight = 50
 
 [[main]]
-  name = "Extracuricular"
-  url = "#extracuricular"
+  name = "Extracurricular"
+  url = "#extracurricular"
   weight = 55
 
 

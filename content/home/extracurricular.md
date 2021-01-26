@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Extracuricular Activities
+title: Extracurricular Activities
 subtitle: ''
 
 design:
