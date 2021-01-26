@@ -62,14 +62,46 @@ Following things are necessary for deveoping this website.
 ## Steps to create the website
 1. I forked the [starter-academic repository](https://github.com/wowchemy/starter-academic) on my github account. [[How to fork a github repository]((https://docs.github.com/en/github/getting-started-with-github/fork-a-repo))]
 2. Renamed the repository to _alorchhota.github.io_ [format: **myaccountid**.github.io] from Settings. Renaming would be useful later to deploy the website as [https://alorchhota.github.io/](https://alorchhota.github.io/). Here is my repository:[https://github.com/alorchhota/alorchhota.github.io](https://github.com/alorchhota/alorchhota.github.io). [[How to rename a github repository](https://docs.github.com/en/github/administering-a-repository/renaming-a-repository)].
-3. Cloned the repository on my local computer using terminal.
-```{bash}
-git clone https://github.com/alorchhota/alorchhota.github.io # remember to use your repository
-```
-4. Opened the repository in RStudio as a new package from existing folder. There I loaded the blogdown package, build the template website, and start the server.
-```{r}
-library(blogdown)
-build_site()
-serve_site()
-```
-
+3.  Cloned the repository on my local computer using terminal.
+    ```{bash}
+    git clone https://github.com/alorchhota/alorchhota.github.io # remember to use your repository
+    ```
+4.  Opened the repository in RStudio as a new package from existing folder. There I loaded the blogdown package and installed hugo.
+    ```{r}
+    > library(blogdown)
+    > blogdown::install_hugo()
+    ```
+5. Restarted RStudio. Restart was required for loading the updated `$PATH` variable.
+6.  In Rstudio, I built the template website, and start the server.
+    ```r
+    > library(blogdown)
+    > build_site()
+    > library(blogdown)
+    > build_site()
+    # hugo: downloading modules â€¦
+    # hugo: collected modules in 23243 ms
+    # Start building sites â€¦ 
+    # 
+    #                    | EN  
+    # -------------------+-----
+    #   Pages            | 63  
+    #   Paginator pages  |  0  
+    #   Non-page files   |  5  
+    #   Static files     | 27  
+    #   Processed images | 22  
+    #   Aliases          | 12  
+    #   Sitemaps         |  1  
+    #   Cleaned          |  0  
+    # 
+    # Total in 30776 ms
+    > serve_site()
+    # Launching the server via the command:
+    #   C:/Users/Shatil/AppData/Roaming/Hugo/0.80.0/hugo.exe server --bind 127.0.0.1 -p 4321 --themesDir themes -D -F --navigateToChanged
+    # Serving the directory . at http://localhost:4321
+    # Launched the hugo server in the background (process ID: 7424). To stop it, call blogdown::stop_server() or restart the R session.
+    
+    ```
+    
+    If everything goes okay, a website should be visible in the *Viewer* panel of RStudio. See an example output below. Of course, the website would look different for you because I generated the image for this blogpost only after I finished the website development. If you click on the button as shown inside a red-circle below, the website would be opened in a web browser. 
+    ![Sample website view in RStudio](posts/rstudio_website.png)
+    
