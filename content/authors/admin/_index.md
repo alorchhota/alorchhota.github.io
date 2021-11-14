@@ -6,29 +6,30 @@ title: Ashis Saha
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Principal Scientific Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Johns Hopkins University
-  url: https://www.jhu.edu/
+- name: Genentech, Inc
+  url: https://www.gene.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computational biology and machine learning.
 
 # Interests to show in About widget
 interests:
-- Gene Regulatory Networks
 - Expression Quantitative Trait Loci (eQTL)
+- Cancer immunology
 - Translational Genomics
 - Single-cell
+- Gene Regulatory Networks
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
     institution: Johns Hopkins University, USA
-    year: 2021 (Expected)
+    year: 2021
   - course: MSc in Computer Engineering
     institution: Korea University, South Korea
     year: 2013
@@ -71,8 +72,8 @@ email: "alorchhota@gmail.com"
 highlight_name: true
 ---
 
-I am a Ph.D. student advised by <a href="https://battlelab.jhu.edu/" target="_blank"> Dr. Alexis Battle </a> in the Department of Computer Science at Johns Hopkins University, USA.
+I am a computatonal researcher at <a href="https://www.gene.com">Genentech, Inc.</a> working with Christian Hammer. I closely work with fellows in the department of Human Genetics and the department of Cancer Immunology. Earlier, I completed my Ph.D. under supervision of <a href="https://battlelab.jhu.edu/" target="_blank"> Dr. Alexis Battle </a> in the Department of Computer Science at Johns Hopkins University, USA.
 
-As a computational biologist, I try to connect Computer Science with Biology by developing biologically-informed computational methods. I incorporate biological insights into the computational models so that the outcomes are interpretable. In my current research, I leverage large scale DNA- and RNA-sequencing data to decipher gene regulatory relationships in humans. I deploy various computational techniques including co-expression networks and quantitative trait loci (QTL) to elucidate the molecular mechanisms of genes and genetic variants.
+As a computational biologist, I try to connect Computer Science with Biology by developing biologically-informed computational methods. I incorporate biological insights into the computational models so that the outcomes are interpretable. In my current research, I investigate the roles of genetic variants in the development and evolution of tumors in order to identify and enhance understanding of novel therapeutic targets and biomarkers. I leverage various kinds of biological data from both public consortia and clinical trials in cancer immunology.
 
 I primarily use R for my research. I also use Python, Matlab and C/C++ whenever required. I care about efficient coding and reproducible research.

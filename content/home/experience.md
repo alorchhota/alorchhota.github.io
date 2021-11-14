@@ -22,14 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Principal Scientific Researcher
+    company: Genentech, Inc.
+    company_url: 'www.gene.com'
+    location: South San Fransisco, USA
+    date_start: '2021-05-10'
+    date_end: ''
+    description: |2-
+      I analyze biological data and apply statistical and machine learning methods in order to identify and enhance
+understanding of novel therapeutic targets and biomarkers. Here, my responsibilities include:
+        - Analyzing large-scale genome-wide association studies (GWAS) in cancer immunology clinical trial cohorts and real world data.
+        - Analyzing the roles of immunogenetic variations in determining survival and adverse events in cancer patients.
+        - Investigating the impact of inherited genetic variation on tumor evolution and mutational patterns.
+        - Performing integrated analyses of multidimensional molecular data sets to better understand anti-tumor immune responses.
+        
+experience:
+  - title: Principal Scientific Researcher
+    company: Genentech, Inc.
+    company_url: 'https://www.gene.com'
+    location: South San Fransisco, USA
+    date_start: '2021-05-10'
+    date_end: ''
+    description: |2-
+      I analyze biological data and apply statistical and machine learning methods in order to identify and enhance understanding of novel therapeutic targets and biomarkers. Here, my responsibilities include:
+        - Analyzing large-scale genome-wide association studies (GWAS) in cancer immunology clinical trial cohorts and real world data.
+        - Analyzing the roles of immunogenetic variations in determining survival and adverse events in cancer patients.
+        - Investigating the impact of inherited genetic variation on tumor evolution and mutational patterns.
+        - Performing integrated analyses of multidimensional molecular data sets to better understand anti-tumor immune responses.
+        
   - title: Research Assistant
     company: Battle Lab, Johns Hopkins University
     company_url: 'battlelab.jhu.edu/'
     location: Baltimore, USA
     date_start: '2014-09-01'
-    date_end: ''
+    date_end: '2021-04-15'
     description: |2-
-      At the Battle Lab, I work to develop and use computational methods to understand, analyze and interpret gene regulation in humans. Here, my responsibilities include:
+      At the Battle Lab, I worked to develop and use computational methods to understand, analyze and interpret gene regulation in humans. Here, my responsibilities included:
         - Improving accuracy and interpretability of co-expression networks,
         - Studying regulation of transcription and splicing using bulk and
         single-cell RNA-seq,
@@ -42,7 +70,7 @@ experience:
     company_url: 'http://www.langmead-lab.org/'
     location: Baltimore, USA
     date_start: '2019-06-18'
-    date_end: ''
+    date_end: '2020-06-19'
     description: With Dr. Ben Langmead, I studied the application of sketch data structures in computational genomics. We showed that the conservative count-min sketch consistently provides more accurate estimates than the regular count-min sketch. We also developed two sketch algorithms – offline count-min sketch and offline conservative count-min sketch – that visit the k-mers multiple times to improve estimates.
         
   - title: Research Assistant
