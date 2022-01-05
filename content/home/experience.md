@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Principal Scientific Researcher
+  - title: Scientific Researcher
     company: Genentech, Inc.
     company_url: 'www.gene.com'
     location: South San Fransisco, USA
@@ -37,7 +37,7 @@ understanding of novel therapeutic targets and biomarkers. Here, my responsibili
         - Performing integrated analyses of multidimensional molecular data sets to better understand anti-tumor immune responses.
         
 experience:
-  - title: Principal Scientific Researcher
+  - title: Scientific Researcher
     company: Genentech, Inc.
     company_url: 'https://www.gene.com'
     location: South San Fransisco, USA
